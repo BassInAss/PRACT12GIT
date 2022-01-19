@@ -1,2 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-string b = Console.ReadLine();
+int a = 0;
+int b = 0;
+int sim = a + b;
