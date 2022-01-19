@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 string a = Console.ReadLine();
 =======
 int a = 0;
@@ -24,3 +25,8 @@ int a = 0;
 int b = 0;
 int sub = a * b;
 >>>>>>> get_mult
+=======
+int a = 0;
+int b = 0;
+int sub = a / b;
+>>>>>>> get_div
