@@ -1,5 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Введите а:");
-string a = Console.ReadLine();
-Console.WriteLine("Введите  b:");
-string b = Console.ReadLine();
+Console.WriteLine("- ввести А");
+Console.WriteLine("- ввести B");
+Console.WriteLine("- выполнить операцию “+”");
+Console.WriteLine("- выполнить операцию “-”");
+Console.WriteLine("- выполнить операцию “*”");
+Console.WriteLine("- выполнить операцию “/”");
